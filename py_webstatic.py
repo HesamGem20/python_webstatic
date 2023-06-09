@@ -41,3 +41,4 @@ for site in sites_new:
             print(f"{site['domain']} is: {site_size} Mb")
 
 
+#python web static
